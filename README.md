@@ -6,6 +6,8 @@ At certain points of the robots strategy process, the robot would send commands 
 
 The robot side of the code can be found [here](https://github.com/SR-CLY/2014/blob/master/sound.py).
 
+[See it in action](https://flic.kr/p/MZMmFT)
+
 ## Problems
 1 thing we forgot to take into account, was that the arena had it's own speaker equipment, that was far bigger than our robot let alone our speakers. It was almost impossible to hear anything, but that didnt stop us getting some weird looks during practice!
 
